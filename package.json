@@ -1,0 +1,11 @@
+{
+  "name": "ext-iconset-typo3",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "cp -r node_modules/@typo3/icons/dist/* Resources/Public/Contrib/typo3-icons"
+  },
+  "dependencies": {
+    "@typo3/icons": "^4.0.0"
+  }
+}

@@ -9,7 +9,7 @@
 
 $EM_CONF[$_EXTKEY] = [
     'title' => 'Iconset TYPO3',
-    'description' => 'TYPO3 Iconset for the Boostrap Package',
+    'description' => 'TYPO3 Iconset for the Bootstrap Package',
     'category' => 'templates',
     'constraints' => [
         'depends' => [

@@ -13,8 +13,8 @@ $EM_CONF[$_EXTKEY] = [
     'category' => 'templates',
     'constraints' => [
         'depends' => [
-            'typo3' => '11.5.0-12.4.99',
-            'bootstrap_package' => '12.0.0-13.99.99',
+            'typo3' => '11.5.0-13.4.99',
+            'bootstrap_package' => '12.0.0-14.99.99',
         ],
     ],
     'autoload' => [
@@ -26,5 +26,5 @@ $EM_CONF[$_EXTKEY] = [
     'author' => 'Benjamin Kott',
     'author_email' => 'info@bk2k.info',
     'author_company' => 'private',
-    'version' => '1.0.0',
+    'version' => '1.0.1',
 ];

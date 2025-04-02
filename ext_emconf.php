@@ -14,7 +14,7 @@ $EM_CONF[$_EXTKEY] = [
     'constraints' => [
         'depends' => [
             'typo3' => '11.5.0-13.4.99',
-            'bootstrap_package' => '12.0.0-14.99.99',
+            'bootstrap_package' => '12.0.0-15.99.99',
         ],
     ],
     'autoload' => [

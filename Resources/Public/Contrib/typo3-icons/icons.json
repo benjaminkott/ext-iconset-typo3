@@ -144,6 +144,24 @@
       "svg": "svgs/actions/actions-barcode.svg",
       "sprite": "sprites/actions.svg#actions-barcode"
     },
+    "actions-bell-ring": {
+      "identifier": "actions-bell-ring",
+      "category": "actions",
+      "svg": "svgs/actions/actions-bell-ring.svg",
+      "sprite": "sprites/actions.svg#actions-bell-ring"
+    },
+    "actions-bell-slash": {
+      "identifier": "actions-bell-slash",
+      "category": "actions",
+      "svg": "svgs/actions/actions-bell-slash.svg",
+      "sprite": "sprites/actions.svg#actions-bell-slash"
+    },
+    "actions-bell": {
+      "identifier": "actions-bell",
+      "category": "actions",
+      "svg": "svgs/actions/actions-bell.svg",
+      "sprite": "sprites/actions.svg#actions-bell"
+    },
     "actions-bolt": {
       "identifier": "actions-bolt",
       "category": "actions",
@@ -162,6 +180,12 @@
       "svg": "svgs/actions/actions-brand-apple.svg",
       "sprite": "sprites/actions.svg#actions-brand-apple"
     },
+    "actions-brand-bluesky": {
+      "identifier": "actions-brand-bluesky",
+      "category": "actions",
+      "svg": "svgs/actions/actions-brand-bluesky.svg",
+      "sprite": "sprites/actions.svg#actions-brand-bluesky"
+    },
     "actions-brand-discord": {
       "identifier": "actions-brand-discord",
       "category": "actions",
@@ -179,6 +203,24 @@
       "category": "actions",
       "svg": "svgs/actions/actions-brand-git.svg",
       "sprite": "sprites/actions.svg#actions-brand-git"
+    },
+    "actions-brand-github": {
+      "identifier": "actions-brand-github",
+      "category": "actions",
+      "svg": "svgs/actions/actions-brand-github.svg",
+      "sprite": "sprites/actions.svg#actions-brand-github"
+    },
+    "actions-brand-gitlab": {
+      "identifier": "actions-brand-gitlab",
+      "category": "actions",
+      "svg": "svgs/actions/actions-brand-gitlab.svg",
+      "sprite": "sprites/actions.svg#actions-brand-gitlab"
+    },
+    "actions-brand-google": {
+      "identifier": "actions-brand-google",
+      "category": "actions",
+      "svg": "svgs/actions/actions-brand-google.svg",
+      "sprite": "sprites/actions.svg#actions-brand-google"
     },
     "actions-brand-instagram": {
       "identifier": "actions-brand-instagram",
@@ -288,6 +330,18 @@
       "svg": "svgs/actions/actions-building.svg",
       "sprite": "sprites/actions.svg#actions-building"
     },
+    "actions-bullhorn-slash": {
+      "identifier": "actions-bullhorn-slash",
+      "category": "actions",
+      "svg": "svgs/actions/actions-bullhorn-slash.svg",
+      "sprite": "sprites/actions.svg#actions-bullhorn-slash"
+    },
+    "actions-bullhorn": {
+      "identifier": "actions-bullhorn",
+      "category": "actions",
+      "svg": "svgs/actions/actions-bullhorn.svg",
+      "sprite": "sprites/actions.svg#actions-bullhorn"
+    },
     "actions-calendar-alternative": {
       "identifier": "actions-calendar-alternative",
       "category": "actions",
@@ -305,6 +359,12 @@
       "category": "actions",
       "svg": "svgs/actions/actions-canvas.svg",
       "sprite": "sprites/actions.svg#actions-canvas"
+    },
+    "actions-capslock": {
+      "identifier": "actions-capslock",
+      "category": "actions",
+      "svg": "svgs/actions/actions-capslock.svg",
+      "sprite": "sprites/actions.svg#actions-capslock"
     },
     "actions-caret-bar-bottom": {
       "identifier": "actions-caret-bar-bottom",
@@ -665,6 +725,12 @@
       "category": "actions",
       "svg": "svgs/actions/actions-cookie.svg",
       "sprite": "sprites/actions.svg#actions-cookie"
+    },
+    "actions-copyright": {
+      "identifier": "actions-copyright",
+      "category": "actions",
+      "svg": "svgs/actions/actions-copyright.svg",
+      "sprite": "sprites/actions.svg#actions-copyright"
     },
     "actions-cpu": {
       "identifier": "actions-cpu",
@@ -1314,6 +1380,12 @@
       "svg": "svgs/actions/actions-lightbulb.svg",
       "sprite": "sprites/actions.svg#actions-lightbulb"
     },
+    "actions-line-columns": {
+      "identifier": "actions-line-columns",
+      "category": "actions",
+      "svg": "svgs/actions/actions-line-columns.svg",
+      "sprite": "sprites/actions.svg#actions-line-columns"
+    },
     "actions-link": {
       "identifier": "actions-link",
       "category": "actions",
@@ -1860,6 +1932,12 @@
       "svg": "svgs/actions/actions-store.svg",
       "sprite": "sprites/actions.svg#actions-store"
     },
+    "actions-surfboard": {
+      "identifier": "actions-surfboard",
+      "category": "actions",
+      "svg": "svgs/actions/actions-surfboard.svg",
+      "sprite": "sprites/actions.svg#actions-surfboard"
+    },
     "actions-swap": {
       "identifier": "actions-swap",
       "category": "actions",
@@ -1901,6 +1979,12 @@
       "category": "actions",
       "svg": "svgs/actions/actions-terminal.svg",
       "sprite": "sprites/actions.svg#actions-terminal"
+    },
+    "actions-text-indent": {
+      "identifier": "actions-text-indent",
+      "category": "actions",
+      "svg": "svgs/actions/actions-text-indent.svg",
+      "sprite": "sprites/actions.svg#actions-text-indent"
     },
     "actions-thumbtack": {
       "identifier": "actions-thumbtack",
@@ -2057,6 +2141,12 @@
       "category": "actions",
       "svg": "svgs/actions/actions-wallet.svg",
       "sprite": "sprites/actions.svg#actions-wallet"
+    },
+    "actions-wave": {
+      "identifier": "actions-wave",
+      "category": "actions",
+      "svg": "svgs/actions/actions-wave.svg",
+      "sprite": "sprites/actions.svg#actions-wave"
     },
     "actions-webhook": {
       "identifier": "actions-webhook",
@@ -4247,6 +4337,12 @@
       "category": "module",
       "svg": "svgs/module/module-setup.svg",
       "sprite": "sprites/module.svg#module-setup"
+    },
+    "module-site-settings": {
+      "identifier": "module-site-settings",
+      "category": "module",
+      "svg": "svgs/module/module-site-settings.svg",
+      "sprite": "sprites/module.svg#module-site-settings"
     },
     "module-sites": {
       "identifier": "module-sites",

@@ -1,3 +1,13 @@
+# 1.0.3
+
+## TASK
+
+- bc294eb [TASK] Update Package and dependencies
+
+## Contributors
+
+- Benjamin Kott
+
 # 1.0.2
 
 ## TASK

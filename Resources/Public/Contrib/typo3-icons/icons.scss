@@ -97,6 +97,15 @@ $icon-opacity-disabled: .5 !default;
 }
 
 //
+// BiDi Support
+//
+.icon-bidi:dir(rtl) {
+    .icon-markup {
+        transform: scaleX(-1);
+    }
+}
+
+//
 // States
 //
 .icon-state-disabled {
